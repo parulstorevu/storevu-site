@@ -39,7 +39,7 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          #### ONGOING INCENTIVES&#xA;
+          ####
 
 
           #### Engaged Customers buy more and buy more often
@@ -55,7 +55,6 @@ sections:
           StoreVu automatically keeps track of every promotion that's redeemed
           so we know exactly what the customer likes, and we systematically
           deliver new promotions based on...
-
 
 
           ###### Past purchases
