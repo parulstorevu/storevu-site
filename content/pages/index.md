@@ -24,7 +24,8 @@ sections:
       incentivesFully integrating with online ordering and payment
       processing
       Rewarding customers with ongoing, personal, and predictably
-      profitable incentives.Making life simple by managing the entire process
+      profitable incentives.
+      Making life simple by managing the entire process
       for you
     features:
       - title: The Best Feature of Your Services
