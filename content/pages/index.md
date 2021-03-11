@@ -27,7 +27,24 @@ sections:
       - title: The Best Feature of Your Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: "## PRIVATE 1 TO 1 CONNECTION\n\n#### With Retexts, there are no kiosks, no lines, no waiting...\n\nIn about 30 seconds, customers can enroll in your text-based promotions offering using their phone\n\n#### All you need is a sign (we provide) at your point of sale\n\nWe provide you with a dedicated phone number and a sign-up code to display to customers. They simply text the code to the number, and you're connected.\n\n### PERSONALIZED ONGOING INCENTIVES\n\n\rStoreVu delivers ongoing personal value, so your customers keep coming back & spend more when they do so\n"
+        content: >+
+          ## PRIVATE 1 TO 1 CONNECTION
+
+
+          #### With Retexts, there are no kiosks, no lines, no waiting...
+
+
+          In about 30 seconds, customers can enroll in your text-based
+          promotions offering using their phone
+
+
+          #### All you need is a sign (we provide) at your point of sale
+
+
+          We provide you with a dedicated phone number and a sign-up code to
+          display to customers. They simply text the code to the number, and
+          you're connected.
+
         actions:
           - label: Learn More
             url: /features
