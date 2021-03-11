@@ -19,7 +19,8 @@ sections:
     title: Features
     subtitle: >-
       Connecting & keeping you connected, one-to-one, with your best
-      customersAutomatically delivering ongoing, personally targeted, text-based
+      customers
+      Automatically delivering ongoing, personally targeted, text-based
       incentivesFully integrating with online ordering and payment
       processingRewarding customers with ongoing, personal, and predictably
       profitable incentives.Making life simple by managing the entire process
