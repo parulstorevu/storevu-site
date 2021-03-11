@@ -24,7 +24,7 @@ sections:
       Rewarding customers with ongoing, personal, and predictably profitable
       incentives. Making life simple by managing the entire process for you
     features:
-      - title: The Best Feature of Your Services
+      - title: PRIVATE 1 TO 1 CONNECTION
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
