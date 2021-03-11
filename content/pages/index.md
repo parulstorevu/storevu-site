@@ -73,6 +73,21 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
