@@ -38,10 +38,53 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          #### ONGOING INCENTIVES&#xA;
+
+
+          #### Engaged Customers buy more and buy more often
+
+
+          Offering ongoing personal value is key
+
+
+          #### StoreVu keeps your customers engaged with promotions they are
+          interested in
+
+
+          StoreVu automatically keeps track of every promotion that's redeemed
+          so we know exactly what the customer likes, and we systematically
+          deliver new promotions based on...
+
+
+
+          ###### Past purchases
+
+
+          Whenever a customer redeems a promotion StoreVu automatically sends a
+          follow-up promotion that incentivizes them to return again sooner
+
+
+          ###### Inactivity
+
+
+          StoreVu automatically re-engages inactive customers to incentivize
+          their return
+
+
+          ###### Reminders
+
+
+          StoreVu can also remind customers that one of their targeted
+          promotions is due to expire
+
+
+          ###### Scheduled Promotions
+
+
+          A key part of StoreVu’s managed service is delivering ongoing
+          incentives to your entire customer base on a weekly basis to
+          continually drive sales.
         actions:
           - label: Learn More
             url: /features
