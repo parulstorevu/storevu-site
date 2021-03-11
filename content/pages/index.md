@@ -18,8 +18,12 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Connecting & keeping you connected, one-to-one, with your best
+      customersAutomatically delivering ongoing, personally targeted, text-based
+      incentivesFully integrating with online ordering and payment
+      processingRewarding customers with ongoing, personal, and predictably
+      profitable incentives.Making life simple by managing the entire process
+      for you
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
