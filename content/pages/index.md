@@ -32,12 +32,6 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Connecting & keeping you connected, one-to-one, with your best customers
-      Automatically delivering ongoing, personally targeted, text-based
-      incentivesFully integrating with online ordering and payment processing
-      Rewarding customers with ongoing, personal, and predictably profitable
-      incentives. Making life simple by managing the entire process for you
     features:
       - title: PRIVATE 1 TO 1 CONNECTION
         image: images/feature1.png
