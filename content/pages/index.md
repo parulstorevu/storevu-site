@@ -22,7 +22,8 @@ sections:
       customers
       Automatically delivering ongoing, personally targeted, text-based
       incentivesFully integrating with online ordering and payment
-      processingRewarding customers with ongoing, personal, and predictably
+      processing
+      Rewarding customers with ongoing, personal, and predictably
       profitable incentives.Making life simple by managing the entire process
       for you
     features:
