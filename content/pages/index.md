@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Keep your customers coming back
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      StoreVu systematically increases how often your customers buy & how much
+      they spend by…
     actions:
       - label: Learn More
         url: /features
