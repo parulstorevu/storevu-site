@@ -108,10 +108,54 @@ sections:
       - title: Cool Feature of Your Services
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          #### &#xA;Your online ordering system, your brand and your customers
+
+
+
+          StoreVu Online Ordering is commission-free and fully integrates 2-way
+          text messaging into your customers’ online ordering experience
+          enabling direct communication between you and each customer, fully
+          automating:
+
+
+          *   Order acceptance
+
+
+          <!---->
+
+
+          *   Scheduled availability
+
+
+          <!---->
+
+
+          *   Completion
+
+
+          <!---->
+
+
+          *   Customer arrival time
+
+
+          <!---->
+
+
+          *   Customer location
+
+
+          <!---->
+
+
+          *   Delivery confirmation
+
+
+          StoreVu supports every mode of contactless customer convenience
+          including in-store, pickup, curbside and delivery. Additionally we
+          import and maintain your existing menu free of charge, and provide you
+          with a networked tablet PC for your staff as part of our offering.
         actions:
           - label: Learn More
             url: /features
