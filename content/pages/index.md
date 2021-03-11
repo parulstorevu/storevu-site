@@ -27,10 +27,7 @@ sections:
       - title: The Best Feature of Your Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >+
-          ## PRIVATE 1 TO 1 CONNECTION
-
-
+        content: >
           #### With Retexts, there are no kiosks, no lines, no waiting...
 
 
@@ -44,7 +41,6 @@ sections:
           We provide you with a dedicated phone number and a sign-up code to
           display to customers. They simply text the code to the number, and
           you're connected.
-
         actions:
           - label: Learn More
             url: /features
