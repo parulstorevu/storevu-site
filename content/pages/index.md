@@ -179,7 +179,7 @@ sections:
     title: Set up an online demo!
     subtitle: We will contact you within one working day
     actions:
-      - label: Get Started
+      - label: Contact Us
         url: /signup
         style: primary
 seo:
