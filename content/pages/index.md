@@ -39,9 +39,6 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          ####
-
-
           #### Engaged Customers buy more and buy more often
 
 
