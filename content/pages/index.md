@@ -18,47 +18,16 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Connecting & keeping you connected, one-to-one, with your best
-      customers
+      Connecting & keeping you connected, one-to-one, with your best customers
       Automatically delivering ongoing, personally targeted, text-based
-      incentivesFully integrating with online ordering and payment
-      processing
-      Rewarding customers with ongoing, personal, and predictably
-      profitable incentives.
-      Making life simple by managing the entire process
-      for you
+      incentivesFully integrating with online ordering and payment processing
+      Rewarding customers with ongoing, personal, and predictably profitable
+      incentives. Making life simple by managing the entire process for you
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.Nam pulvinar ante eu ultricies volutpat. Aenean
-          hendrerit, eros sed aliquet luctus, lorem risus volutpat dolor, nec
-          dignissim diam neque consequat ex.
-
-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-
-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-
-
-
-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-
-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "## PRIVATE 1 TO 1 CONNECTION\n\n#### With Retexts, there are no kiosks, no lines, no waiting...\n\nIn about 30 seconds, customers can enroll in your text-based promotions offering using their phone\n\n#### All you need is a sign (we provide) at your point of sale\n\nWe provide you with a dedicated phone number and a sign-up code to display to customers. They simply text the code to the number, and you're connected.\n\n### PERSONALIZED ONGOING INCENTIVES\n\n\rStoreVu delivers ongoing personal value, so your customers keep coming back & spend more when they do so\n"
         actions:
           - label: Learn More
             url: /features
