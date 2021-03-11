@@ -177,7 +177,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Set up an online demo!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We'll contact you in one working day
     actions:
       - label: Get Started
         url: /signup
