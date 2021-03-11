@@ -6,9 +6,24 @@ sections:
     image: images/11.jpg
     image_alt: App preview
     title: Keep your customers coming back
-    content: >
-      StoreVu systematically increases how often your customers buy & how much
-      they spend by…
+    content: >+
+      *   Connecting & keeping you connected, one-to-one, with your best
+      customers
+
+
+      *    Automatically delivering ongoing, personally targeted, text-based
+      incentives
+
+
+      *   Fully integrating with online ordering and payment processing 
+
+
+      *   Rewarding customers with ongoing, personal, and predictably profitable
+      incentives.
+
+
+      *    Making life simple by managing the entire process for you
+
     actions:
       - label: Learn More
         url: /features
