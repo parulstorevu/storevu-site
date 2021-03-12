@@ -171,7 +171,17 @@ sections:
       - title: '"Why market my business if it doesn''t pay to do so?"'
         content: "*   StoreVu is the only customer marketing solution that can guarantee your local business a profit. On average our clients continue to increase the size of their customer bases, while achieving promotional redemption rates in excess of 20%\n\n<!---->\n\n*   Every promotion that we create allows you to name your profit ahead of time \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_\n\n#### \uFEFFWe also control:\_\n\n*   When promotions expire on a customer-by-customer basis.\n\n<!---->\n\n*   How many times each promotion can be redeemed, in total and by individual customer.\n\n<!---->\n\n*   And since we track every redemption, we can individually target customers with incentives that they are most likely to redeem.\n\n<!---->\n\n*   Most importantly, we track and analyze\_every promotion\_so you know what’s working best.\n"
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            is_contactform: false
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: images/12.jpg
   - section_id: call-to-action
