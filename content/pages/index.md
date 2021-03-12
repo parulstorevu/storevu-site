@@ -105,7 +105,7 @@ sections:
           continually drive sales.
         actions:
           - label: Learn More
-            url: /features
+            url: /trial
             style: secondary
             has_icon: true
             icon: arrow-right
