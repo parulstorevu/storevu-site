@@ -34,7 +34,7 @@ sections:
     title: Features
     features:
       - title: PRIVATE 1 TO 1 CONNECTION
-        image: images/feature1.png
+        image: images/undraw_Online_messaging_re_qft3.svg
         image_alt: App preview on a phone and tablet
         content: >
           #### With Retexts, there are no kiosks, no lines, no waiting...
