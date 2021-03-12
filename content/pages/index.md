@@ -174,7 +174,7 @@ sections:
         actions:
           - label: Learn More
             is_contactform: false
-            url: '#'
+            url: /trial
             style: link
             has_icon: false
             icon: arrow-left
