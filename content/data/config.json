@@ -128,18 +128,6 @@
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
-            },
-            {
-                "label": "lorem-ipsum",
-                "is_contactform": false,
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
