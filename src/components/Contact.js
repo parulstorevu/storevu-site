@@ -21,7 +21,7 @@ export default class Contact extends React.Component {
         <ReactTypeformEmbed
           popup
           autoOpen={false}
-          url="https://pzz2uoc8oo9.typeform.com/to/Bq0UUrBr"
+          url="https://6uewfk77fpv.typeform.com/to/cPHfE8NG"
           hideHeaders
           hideFooter
           buttonText="Get in Touch"
