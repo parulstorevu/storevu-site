@@ -163,7 +163,7 @@ sections:
           with a networked tablet PC for your staff as part of our offering.
         actions:
           - label: Learn More
-            url: /features
+            url: /trial
             style: secondary
             has_icon: true
             icon: arrow-right
