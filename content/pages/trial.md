@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/11.jpg
     image_alt: App preview
-    title: Keep your customers back
+    title: Try storeVu for 45 days on us
     content: >+
       *   Connecting & keeping you connected, one-to-one, with your best
       customers
