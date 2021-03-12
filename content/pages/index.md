@@ -183,7 +183,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/12.jpg
+        image: images/profit_img.svg
   - section_id: call-to-action
     type: section_cta
     title: Set up an online demo!
