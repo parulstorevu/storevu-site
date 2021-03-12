@@ -208,6 +208,6 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
-  description: Keep you
+  description: Keep your customers coming back!
 layout: landing
 ---
