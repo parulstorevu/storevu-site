@@ -58,7 +58,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: ONGOING INCENTIVES
-        image: images/feature2.png
+        image: images/promotion_img.svg
         image_alt: App users welcoming a new member
         content: >
           #### Engaged Customers buy more and buy more often
