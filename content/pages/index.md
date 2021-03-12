@@ -193,7 +193,7 @@ seo:
       value: StoreVu
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Keep your customers coming back!
       keyName: property
     - name: 'og:image'
       value: images/hero.png
