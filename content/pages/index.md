@@ -185,7 +185,6 @@ sections:
         style: primary
 seo:
   title: StoreVu
-  description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
       value: website
