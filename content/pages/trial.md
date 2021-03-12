@@ -18,7 +18,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Fill out the form
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We'll have you up and running in a few days.
     actions:
       - label: Get Started
         url: '#'
