@@ -175,7 +175,7 @@ sections:
           - label: Learn More
             is_contactform: false
             url: /trial
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
