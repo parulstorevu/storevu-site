@@ -33,7 +33,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
+StoreVu was designed by Permanent Customer Connections (PCC), LLC to deliver digital advertising that pays. Since 2008, we’ve provided local businesses with all the necessary resources to measurably increase sales and profits through automated customer marketing. On average our clients continue to increase the size of their customer bases, while achieving promotional redemption rates in excess of 20%!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+In 2020 we integrated our complete online ordering solution with our ReTexts text-based customer promotion solution.﻿
+
+StoreVu is the only completely managed solution in the market, and typically provided at an expense less than or equal to the “do-it-yourself” options. Regardless, we can offer any local business a written guarantee that your profits will increase.
