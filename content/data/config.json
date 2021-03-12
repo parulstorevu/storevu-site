@@ -41,7 +41,8 @@
                 "type": "footer_text",
                 "image": "images/sv-logo-light.png",
                 "image_url": "/",
-                "image_alt": "Footer logo"
+                "image_alt": "Footer logo",
+                "title": "gggg"
             },
             {
                 "type": "footer_nav",
