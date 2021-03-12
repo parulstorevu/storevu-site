@@ -31,7 +31,7 @@ export default class Contact extends React.Component {
           }}
         />
         <button
-          className="btn"
+          className="button"
           onClick={this.openForm}
           style={{ cursor: "pointer" }}
         >
