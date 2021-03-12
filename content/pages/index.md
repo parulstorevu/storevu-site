@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/11.jpg
+    image: images/hero_image.svg
     image_alt: App preview
     title: Keep your customers coming back
     content: >+
