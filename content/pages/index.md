@@ -208,5 +208,6 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+  description: Keep you
 layout: landing
 ---
