@@ -204,7 +204,7 @@ seo:
     - name: 'twitter:title'
       value: StoreVu
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Keep your customers coming back!
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
