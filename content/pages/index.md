@@ -26,7 +26,7 @@ sections:
 
     actions:
       - label: Learn More
-        url: /features
+        url: /trial
         style: primary
   - section_id: features
     type: section_features
