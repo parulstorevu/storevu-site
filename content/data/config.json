@@ -129,7 +129,8 @@
                 "url": "/privacy-policy",
                 "style": "link"
             }
-        ]
+        ],
+        "content": "aaaa"
     },
     "domain": "https://storevu.com"
 }
