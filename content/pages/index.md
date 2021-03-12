@@ -111,7 +111,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 'Commission-free online ordering:'
-        image: images/feature3.png
+        image: images/menu_img.svg
         image_alt: App user profile preview
         content: >
           #### &#xA;Your online ordering system, your brand and your customers
