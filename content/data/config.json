@@ -53,11 +53,6 @@
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
-                    },
-                    {
                         "label": "Terms of Service",
                         "url": "/terms-of-service",
                         "style": "link"
