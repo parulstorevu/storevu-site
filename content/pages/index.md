@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero_image.svg
     image_alt: App preview
-    title: 'Keep your customers coming '
+    title: Keep your customers comin
     content: >+
       *   Connecting & keeping you connected, one-to-one, with your best
       customers
