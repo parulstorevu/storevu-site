@@ -41,7 +41,7 @@ Permission is granted to temporarily download one copy of the materials on Perma
 
 *   transferring the materials to another person or "mirror" the materials on any other server.
 
-This will let Permanent Customer Connections, LLC to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the [Terms Of Service Generator](https://www.termsofservicegenerator.net/) and the [Privacy Policy Generator](https://www.generateprivacypolicy.com/).
+This will let Permanent Customer Connections, LLC to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.
 
 ## 3. Disclaimer
 
