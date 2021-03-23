@@ -29,7 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
-image: images/diligent-artichoke.svg
+image: images/panoramic-spruce.svg
 ---
 StoreVu was designed by Permanent Customer Connections (PCC), LLC to deliver digital advertising that pays. Since 2008, we’ve provided local businesses with all the necessary resources to measurably increase sales and profits through automated customer marketing. On average our clients continue to increase the size of their customer bases, while achieving promotional redemption rates in excess of 20%!
 
