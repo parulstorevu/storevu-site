@@ -37,11 +37,8 @@ sections:
       - title: Integrated Payment Processing
         subtitle: For very large businesses
         price: 2.9% +30₵ per successful transaction
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   .
         actions:
           - label: Order Now
             url: /signup
