@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Basic
+      - title: Customer Text Marketing
         subtitle: For small businesses
         price: $1/Redemption
         details: "*    Creation and management of a custom targeted promotional campaign\r\n    designed to increase average expenditure and buying frequency.\n\n*\r    A dedicated text-based connection with your best customers through a\r\n    dedicated local phone number that we provide.\n\n*\r     Custom in-store signage, as well as links to any existing email, text,\r\n    web, or social media that you may already be using.\n\n*\r     Scheduled delivery of targeted custom customer promotions.\n\n*\r     Tracking of redemptions online and in-store.\n\n*\r    Managed ongoing services.\n\n*\r     Secure access to real time reporting including sales and profitability.\n"
