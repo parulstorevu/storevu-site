@@ -15,16 +15,6 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-          - label: lorem-ipsum
-            is_contactform: false
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
       - title: Professional Integrated Online Text Ordering
         subtitle: For medium-sized businesses
         price: $100/Month
