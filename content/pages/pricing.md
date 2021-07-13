@@ -25,7 +25,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Professional
+      - title: Professional Integrated Online Text Ordering
         subtitle: For medium-sized businesses
         price: $49/m
         details: |-
