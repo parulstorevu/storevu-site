@@ -27,7 +27,7 @@ sections:
             type: action
       - title: Professional Integrated Online Text Ordering
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $100/Month
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
