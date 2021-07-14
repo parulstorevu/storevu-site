@@ -21,7 +21,7 @@ sections:
             url: /signup
             style: secondary
       - title: Integrated Online Text Ordering
-        subtitle: Add online
+        subtitle: "Add\_online ordering to\_text marketing"
         price: |
           ###### **$100/Month**
 
