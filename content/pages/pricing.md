@@ -13,8 +13,6 @@ sections:
           ###### **1₵/Message**
 
           ###### **$1/Redemption**
-
-          ###### ****
         details: "*   Custom targeted customer promotions\r    .\n\n*   Private, dedicated text-based connection.\n\n*   Automated customer promotion delivery.\n\n*   Automated redemption tracking.\n\n*   Ongoing managed services.\n\n*   Real time reporting.\n"
         actions:
           - label: Order Now
