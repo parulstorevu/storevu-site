@@ -34,7 +34,9 @@ sections:
             style: primary
       - title: Integrated Payment Processing
         subtitle: For very large businesses
-        price: 2.9% +30₵ per successful transaction
+        price: |+
+          ###### **2.9% +30₵ per successful transaction**
+
         details: |
           *   .
         actions:
