@@ -44,9 +44,14 @@ sections:
             style: primary
       - title: Integrated Payment Processing
         subtitle: Integrated online customer payment
-        price: |+
+        price: |
           ###### **2.9% +30₵ per successful transaction**
 
+          ###### **$100/Month**
+
+          ###### **1₵/Message**
+
+          ###### **$1/Redemption**
         details: |
           *   .
         actions:
