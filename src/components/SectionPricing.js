@@ -33,7 +33,7 @@ export default class SectionPricing extends React.Component {
                         <div className="plan-subtitle">{_.get(plan, 'subtitle', null)}</div>
                         )}
                         {_.get(plan, 'price', null) && (
-                        <div className="plan-price">{_.get(plan, 'price', null)}</div>
+                        <div className="plan-price">{{markdownify(_.get(plan, 'price', null)}</div>
                         )}
                       </div>
                       <div className="plan-content">
