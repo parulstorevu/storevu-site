@@ -13,8 +13,6 @@ sections:
           ###### **1₵/Message**
 
           ###### **$1/Redemption**
-
-          ***
         details: "*   Creation and management of a custom targeted promotional campaign\r\n    designed to increase average expenditure and buying frequency\n\n*   A dedicated text-based connection with your best customers through a\r\n    dedicated local phone number that we provide.\n\n*   Custom in-store signage, as well as links to any existing email, text,\r\n    web, or social media that you may already be using.\n\n*   Scheduled delivery of targeted custom customer promotions.\n\n*   Tracking of redemptions online and in-store.\n\n*   Managed ongoing services.\n\n*   Secure access to real time reporting including sales and profitability.\n"
         actions:
           - label: Order Now
