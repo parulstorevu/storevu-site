@@ -20,7 +20,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Professional Integrated Online Text Ordering
+      - title: Integrated Online Text Ordering
         subtitle: For medium-sized businesses
         price: |
           ###### **$100/Month**
