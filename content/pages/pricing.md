@@ -54,6 +54,7 @@ sections:
           ###### *$1/Redemption*
         details: |
           *   In-person & online payments.
+          *   Credit, debit & wallets.
           *   Daily settlement & payment.
           *   Tip splitting w/direct payment,
         actions:
