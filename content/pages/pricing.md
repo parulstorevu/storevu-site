@@ -26,7 +26,7 @@ sections:
           ###### **1₵/Message**
 
           ###### **$1/Redemption**
-        details: "*   Everything \n*   Conversion and hosting your current menu online on a dedicated\r\n    website at no charge.\n*   Complete integration with the custom targeted promotional we design\r\n    for you.\n*   A tablet PC free of charge for online order processing and training for\r\n    you and your staff.\n"
+        details: "*   Everything in **Customer Text Marketing**\n*   Conversion and hosting your current menu online on a dedicated\r\n    website at no charge.\n*   Complete integration with the custom targeted promotional we design\r\n    for you.\n*   A tablet PC free of charge for online order processing and training for\r\n    you and your staff.\n"
         highlight: true
         actions:
           - label: Order Now
