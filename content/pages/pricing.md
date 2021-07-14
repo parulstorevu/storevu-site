@@ -8,7 +8,7 @@ sections:
     subtitle: The range of plans we offer
     pricing_plans:
       - title: Customer Text Marketing
-        subtitle: For small businesses
+        subtitle: 'Increased sales & profits, guaranteed!'
         price: |
           ###### **1₵/Message**
 
