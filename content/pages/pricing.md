@@ -45,7 +45,7 @@ sections:
       - title: Integrated Payment Processing
         subtitle: Integrated online customer payment
         price: |
-          #### **2.9% +30₵/Transaction**
+          #### **2.9% +30₵ per Transaction**
 
           ###### **$100/Month**
 
