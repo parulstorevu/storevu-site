@@ -15,7 +15,7 @@ sections:
           ###### **$1/Redemption**
 
           ###### ****
-        details: "*   Custom targeted promotional campaign\r     designed to increase average expenditure and buying frequency,\n\n*   Private text-based connection with your best customers through a\r\n    dedicated local phone number.\n\n*   Custom in-store signage, links to any existing email, text,\r\n    web, or social media you may already be using.\n\n*   Scheduled delivery of targeted custom customer promotions.\n\n*   Tracking of redemptions online and in-store.\n\n*   Managed ongoing services.\n\n*   Secure access to real time reporting including sales and profitability.\n"
+        details: "*   Custom targeted customer promotions\r    .\n\n*   Private, dedicated text-based connection.\n\n*   Automated customer promotion delivery.\n\n*   Automated redemption tracking.\n\n*   Ongoing managed services.\n\n*   Real time reporting.\n"
         actions:
           - label: Order Now
             url: /signup
