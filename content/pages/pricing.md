@@ -47,7 +47,7 @@ sections:
         price: |
           ##### **2.9% +30₵ per Transaction**
 
-          Plus:
+          ###### Plus:
 
           ###### *$100/Month*
 
