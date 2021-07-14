@@ -47,11 +47,13 @@ sections:
         price: |
           ##### **2.9% +30₵ per Transaction**
 
-          ###### $100/Month
+          Plus:
 
-          ###### 1₵/Message
+          *   *$100/Month*
 
-          ###### $1/Redemption
+          *   *1₵/Message*
+
+          *   *$1/Redemption*
         details: |
           *   .
         actions:
