@@ -21,7 +21,7 @@ sections:
             url: /signup
             style: secondary
       - title: Integrated Online Text Ordering
-        subtitle: For medium-sized businesses
+        subtitle: Add online
         price: |
           ###### **$100/Month**
 
