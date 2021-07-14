@@ -600,7 +600,7 @@ models:
       - type: string
         name: subtitle
         label: Subtitle
-      - type: string
+      - type: markdown
         name: price
         label: Price
       - type: markdown
