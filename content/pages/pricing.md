@@ -13,7 +13,7 @@ sections:
           ###### 1cent / Msg
 
           ###### $1/Redemption
-        details: "*   Creation and management of a custom targeted promotional campaign\r\n    designed to increase average expenditure and buying frequency\n*   A dedicated text-based connection with your best customers through a\r\n    dedicated local phone number that we provide.\n*   Custom in-store signage, as well as links to any existing email, text,\r\n    web, or social media that you may already be using.\n*   Scheduled delivery of targeted custom customer promotions.\n*   Tracking of redemptions online and in-store.\n*   Managed ongoing services.\n*   Secure access to real time reporting including sales and profitability.\n"
+        details: "1.  Creation and management of a custom targeted promotional campaign\r\n    designed to increase average expenditure and buying frequency\n\n2.  A dedicated text-based connection with your best customers through a\r\n    dedicated local phone number that we provide.\n\n3.  Custom in-store signage, as well as links to any existing email, text,\r\n    web, or social media that you may already be using.\n\n4.  Scheduled delivery of targeted custom customer promotions.\n\n5.  Tracking of redemptions online and in-store.\n\n6.  Managed ongoing services.\n\n7.  Secure access to real time reporting including sales and profitability.\n"
         actions:
           - label: Order Now
             url: /signup
