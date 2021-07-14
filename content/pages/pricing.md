@@ -43,7 +43,7 @@ sections:
             url: /signup
             style: primary
       - title: Integrated Payment Processing
-        subtitle: For very large businesses
+        subtitle: Integrated online customer payment
         price: |+
           ###### **2.9% +30₵ per successful transaction**
 
