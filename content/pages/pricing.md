@@ -23,7 +23,7 @@ sections:
 
           ###### Plus
 
-          1₵/Message and $1/Redemption
+          ###### 1₵/Message and $1/Redemption
         details: >
           *   Everything in **Customer Text Marketing**
 
