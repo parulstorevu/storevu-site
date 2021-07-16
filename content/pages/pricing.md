@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: The range of plans we offer
+    subtitle: Get in touch to go into details
     pricing_plans:
       - title: Customer Text Marketing
         subtitle: 'Increased sales & profits, guaranteed!'
