@@ -19,7 +19,7 @@ sections:
       - title: Integrated Online Text Ordering
         subtitle: "Add\_online ordering to\_text marketing"
         price: |
-          ##### **$100/Month**
+          ###### **$100/Month**
 
           ###### Plus
 
