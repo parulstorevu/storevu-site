@@ -10,7 +10,7 @@ sections:
       - title: Customer Text Marketing
         subtitle: 'Increased sales & profits, guaranteed!'
         price: |
-          ###### **1₵/Message and $1/Redemption**
+          **1₵/Message and $1/Redemption**
         details: "*   Custom targeted customer promotions\r    .\n\n*   Private, dedicated text-based connection.\n\n*   Automated customer promotion delivery.\n\n*   Automated redemption tracking.\n\n*   Ongoing managed services.\n\n*   Real time reporting.\n"
         actions:
           - label: Order Now
