@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: images/undraw_team_spirit_hrr4.svg
+image: images/Screenshot 2021-08-30 184550.png
 image_alt: Team members in a conference room
 seo:
   title: About Us
