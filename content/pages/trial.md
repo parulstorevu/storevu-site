@@ -15,7 +15,7 @@ sections:
         is_contactform: true
       - label: View Demo
         url: '#'
-        style: primary
+        style: secondary
         is_contactform: true
   - section_id: call-to-action
     type: section_cta
