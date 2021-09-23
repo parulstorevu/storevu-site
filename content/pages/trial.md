@@ -12,6 +12,7 @@ sections:
       - label: Free Trial
         url: '#'
         style: primary
+        is_contactform: true
       - label: View Demo
         url: '#'
         style: secondary
