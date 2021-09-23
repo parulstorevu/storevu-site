@@ -16,6 +16,7 @@ sections:
       - label: View Demo
         url: '#'
         style: secondary
+        is_contactform: true
   - section_id: call-to-action
     type: section_cta
     title: Fill out the form
